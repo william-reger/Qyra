@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Hey Qyra",
+  "wake_word": "alexa",
   "author": "William Reger",
   "website": "https://www.kevinahrendt.com/",
   "model": "./alexa.tflite",
