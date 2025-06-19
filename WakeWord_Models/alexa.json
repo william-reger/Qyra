@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Alexa",
+  "wake_word": "Hey Qyra",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "./hey_qyra.tflite",
