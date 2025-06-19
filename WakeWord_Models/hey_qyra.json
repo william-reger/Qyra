@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Qyra",
   "author": "William Reger",
-  "website": "https://www.kevinahrendt.com/",
+  "website": "https://www.google.com/",
   "model": "./hey_qyra.tflite",
   "version": 1,
   "micro": {
