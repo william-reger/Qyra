@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Qyra",
   "author": "William Reger",
-  "website": "none",
+  "website": "https://github.com/william-reger/",
   "model": "./hey_qyra.tflite",
   "version": 1,
   "micro": {
