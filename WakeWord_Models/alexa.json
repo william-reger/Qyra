@@ -3,7 +3,7 @@
   "wake_word": "Hey Qyra",
   "author": "William Reger",
   "website": "https://www.kevinahrendt.com/",
-  "model": "./hey_qyra.tflite",
+  "model": "./alexa.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
